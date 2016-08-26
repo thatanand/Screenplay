@@ -1,4 +1,4 @@
 # Screenplay
 A minimalist scriptwriting web application
 
-Live demo at [http://asubramaniam.com/Screenplay/]
+Live demo at http://asubramaniam.com/Screenplay/
