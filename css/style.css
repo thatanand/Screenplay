@@ -11,19 +11,19 @@ GLOBAL RULES
 
 @font-face {
     font-family: CourierPrime;
-    src: url(fonts/CourierPrime.ttf);
+    src: url(../fonts/CourierPrime.ttf);
     font-weight: normal;
 }
 
 @font-face {
   font-family: CourierPrime;
-  src: url(fonts/CourierPrimeBold.ttf);
+  src: url(../fonts/CourierPrimeBold.ttf);
   font-weight: bold;
 }
 
 html, body{
   font-size: 1em;
-  line-height: 1.2em;
+  line-height: 1em;
 }
 
 
@@ -147,7 +147,10 @@ PRINT MEDIA RULES
   }
 
   .dialogue{
-    text-align: center;
+    text-align: left;
+    width: 78%;
+margin-left: auto;
+margin-right: auto;
   }
 
 
@@ -296,7 +299,7 @@ SCRIPT RELATED RULES
   overflow-y:auto;
   background-color: #f7f7f7;
   box-shadow: 0 0 0.2cm rgba(0,0,0,0.5);
-  padding: 80px 40px;
+  padding: 80px 30px;
 }
 
 
@@ -360,7 +363,10 @@ SCRIPT RELATED RULES
 }
 
 .dialogue{
-  text-align: center;
+  text-align: left;
+  width: 65%;
+margin-left: auto;
+margin-right: auto;
 }
 
 
