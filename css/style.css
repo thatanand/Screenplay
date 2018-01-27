@@ -183,12 +183,16 @@ html, body{
   background-color: #000000;
   color: #212121;
   max-height: 100vh;
-  font-family: 'Josefin Sans', sans-serif;
   -webkit-transition: all 0.8s ease-out;
   -moz-transition: all 0.8s ease-out ;
   -ms-transition: all 0.8s ease-out ;
   -o-transition: all 0.8s ease-out ;
   transition: all 0.8s ease-out ;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
 }
 
 .container-fluid{
