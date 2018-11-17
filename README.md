@@ -1,9 +1,9 @@
 # Screenplay
-A minimalist scriptwriting web application, designed and developed by myself and [Faheem](https://twitter.com/faheempatel).
+A minimalist scriptwriting web application, designed and developed by myself. It's still a work-in-progress.
 
 The idea is simple — to create a very easy-to-use tool for any budding/experienced scriptwriter. Having explored various existing solutions, Screenplay aims to combine best of all worlds with an intuitive web-app (*plus I'm kinda hoping that someone like Aaron Sorkin uses this*).
 
-Live demo at http://asubramaniam.com/Screenplay/ *not working*
+Live demo at https://thatanand.github.io/demo/screenplay/
 
 Feature checklist (for v1.0)
 -----------------
